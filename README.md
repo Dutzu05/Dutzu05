@@ -1,16 +1,39 @@
-## Hi there 👋
+## 🚀 About Me
 
-<!--
-**Dutzu05/Dutzu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that connect **software**, **electronics**, and
+**real‑world data**.\
+My work spans full‑stack development, embedded firmware, IoT hardware
+prototyping, and geospatial analytics.\
+I focus on designing solutions that actually run in the real world ---
+not just in documentation.
 
-Here are some ideas to get you started:
+I like solving problems where hardware and software meet:\
+data pipelines → sensors → microcontrollers → visual interfaces →
+backend infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------
+
+## 🧠 What I Do
+
+### **Software Engineering**
+
+-   Backend development (Python, Django, REST APIs)
+-   Containerized environments (Docker, Compose)
+-   Database design & optimization (PostgreSQL, PostGIS)
+-   Version control, branching workflows, multi‑developer collaboration
+
+### **Embedded Systems & Electronics**
+
+-   Firmware development for ESP32/AVR microcontrollers
+-   I²C, SPI, UART communication debugging
+-   Sensor integration, calibration, and low‑power design
+-   Real‑time systems, timers, interrupts, ADC, PWM
+-   PCB prototyping and hardware validation
+
+------------------------------------------------------------------------
+
+## 📬 Contact
+
+GitHub: Dutzu05\
+LinkedIn: https://www.linkedin.com/in/vlad-lusca-63ab05316/  
+Email: vladlusca05@gmail.com

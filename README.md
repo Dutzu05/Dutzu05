@@ -4,8 +4,7 @@ I build systems that connect **software**, **electronics**, and
 **real‑world data**.\
 My work spans full‑stack development, embedded firmware, IoT hardware
 prototyping, and geospatial analytics.\
-I focus on designing solutions that actually run in the real world ---
-not just in documentation.
+I focus on designing solutions that actually run in the real world.
 
 I like solving problems where hardware and software meet:\
 data pipelines → sensors → microcontrollers → visual interfaces →

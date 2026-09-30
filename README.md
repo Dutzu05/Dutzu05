@@ -34,5 +34,6 @@ backend infrastructure.
 ## 📬 Contact
 
 GitHub: Dutzu05\
-LinkedIn: https://www.linkedin.com/in/vlad-lusca-63ab05316/  
+LinkedIn: https://www.linkedin.com/in/vlad-lusca-63ab05316/  \
+Portfolio: https://drive.google.com/file/d/110A8Q6uH1WO3uH_QKzCCS9b5Ixoow8J6/view?usp=sharing  \
 Email: vladlusca05@gmail.com

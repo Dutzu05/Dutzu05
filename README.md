@@ -1,3 +1,12 @@
+## 📬 Contact
+
+GitHub: Dutzu05  
+LinkedIn: https://www.linkedin.com/in/vlad-lusca-63ab05316/  
+Portfolio: https://drive.google.com/file/d/1UJmL5hIsxcNi5bxWanMvWmxoaAkJtjMe/view?usp=sharing  
+Email: vladlusca05@gmail.com
+
+------------------------------------------------------------------------
+
 ## 🚀 About Me
 
 I build systems that connect **software**, **electronics**, and
@@ -28,12 +37,3 @@ backend infrastructure.
 -   Sensor integration, calibration, and low‑power design
 -   Real‑time systems, timers, interrupts, ADC, PWM
 -   PCB prototyping and hardware validation
-
-------------------------------------------------------------------------
-
-## 📬 Contact
-
-GitHub: Dutzu05  
-LinkedIn: https://www.linkedin.com/in/vlad-lusca-63ab05316/  
-Portfolio: https://drive.google.com/file/d/1UJmL5hIsxcNi5bxWanMvWmxoaAkJtjMe/view?usp=sharing  
-Email: vladlusca05@gmail.com

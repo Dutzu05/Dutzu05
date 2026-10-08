@@ -2,7 +2,7 @@
 
 GitHub: Dutzu05  
 LinkedIn: https://www.linkedin.com/in/vlad-lusca-63ab05316/  
-Portfolio: https://drive.google.com/file/d/14a4ayLNAw8tVgWHSZhZJxBHxd5rlfo6f/view?usp=sharing  
+Portfolio: https://drive.google.com/file/d/14BVpqevlnQgwqRkeMFFkmCnN5LgnygQn/view?usp=sharing  
 Email: vladlusca05@gmail.com
 
 ------------------------------------------------------------------------
